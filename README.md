@@ -14,7 +14,7 @@ The analysis helps in identifying sales trends, top-performing products, and cus
 
 ---
 ## Dataset used
--<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/online_retails_sales.sql"> Data viwe</a>
+-<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/online_retails_sales.sql"> Data view</a>
 
 ## 🔑 Key Analysis Performed
 - Total sales and revenue calculation  
@@ -30,7 +30,7 @@ The analysis helps in identifying sales trends, top-performing products, and cus
 - Relational Database  
 - Aggregate Functions  
 - Joins & Subqueries  
-<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/Screenshot%202025-12-30%20133943.png"> datset viwe</a>
+<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/Screenshot%202025-12-30%20133943.png"> datset view</a>
 <img width="1912" height="982" alt="Screenshot 2025-12-30 133943" src="https://github.com/user-attachments/assets/4a86b73b-1f66-4c4c-ae09-71927414417a" />
 
 ---
@@ -44,7 +44,7 @@ The analysis helps in identifying sales trends, top-performing products, and cus
 
 ## 📁 Project File
 - `online_retails_sales.sql` – SQL queries for retail sales analysis
--<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/online_retails_sales.sql"> Data viwe</a>
+-<a href="https://github.com/ROSHANbik/Online-retail-sales-analysis-sql-project/blob/main/online_retails_sales.sql"> Data view</a>
 
 ---
 
